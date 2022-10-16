@@ -1,7 +1,7 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
-char msg[100] = "Programming is like building a multilingual puzzle\n";
+char msg[100] = "\"Programming is like building a multilingual puzzle\n";
 puts(msg);
-return 0;
+return (0);
 }
