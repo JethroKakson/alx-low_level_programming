@@ -1,1 +1,1 @@
-contains the script that runs c files
+script that runs a c file but does not link
